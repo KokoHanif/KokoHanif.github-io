@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+	font-family: 'Open Sans', sans-serif;
+	scroll-behavior: smooth;
+}
+.we{
+	position: sticky;
+	top: 0;
+}
+.jumbotron img{
+	width: 250px;
+}
+
+.porto{
+	background-color:#EDECEC;
+}
+.btn{
+	margin-top: 15ox;
+}
